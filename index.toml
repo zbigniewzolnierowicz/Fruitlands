@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/byg/biomepedia.json5"
+hash = "6319ed3acee6edb9ad19113e257efa793b840c0d1ecc4bb5663320a1d656066b"
+
+[[files]]
+file = "config/litematica.json"
+hash = "ba983e07025ed4770329f42466b23a5db03c7a70f1e450d3784c140194e9088e"
+
+[[files]]
 file = "emotes/emotecraft-default-dance.pw.toml"
 hash = "e7d5b714024d4c997ce4b0a558cb928451db532e03ba08ab89ed6b3575f5d452"
 metafile = true
@@ -14,6 +22,10 @@ metafile = true
 file = "emotes/emotecraft-family-guy.pw.toml"
 hash = "3caa1b7f4718122f4e66107876e26ec91b9fd15f82f77f6a857444ea34ce3fe1"
 metafile = true
+
+[[files]]
+file = "index.html"
+hash = "7c032b6989a0a990413354535eb11b0c7349cc22d8ae3c2da4ea3a316fbfda2d"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
