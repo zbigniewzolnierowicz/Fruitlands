@@ -24,10 +24,6 @@ hash = "3caa1b7f4718122f4e66107876e26ec91b9fd15f82f77f6a857444ea34ce3fe1"
 metafile = true
 
 [[files]]
-file = "index.html"
-hash = "7c032b6989a0a990413354535eb11b0c7349cc22d8ae3c2da4ea3a316fbfda2d"
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "d3a87d340439309a208ec67f0d9c8004458b315f39add685ee298909988f0d9b"
 metafile = true
@@ -129,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
@@ -334,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "4fd283d098a43db1e66ac465508700a722866c6d1f5afcdcc047fb87f6aabb26"
+hash = "39b4d126556a8273f5874addefb2869e6b63fb867f201c70968409e66282e70a"
 metafile = true
 
 [[files]]
