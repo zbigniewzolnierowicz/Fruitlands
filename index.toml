@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "emotes/emotecraft-default-dance.pw.toml"
+hash = "e7d5b714024d4c997ce4b0a558cb928451db532e03ba08ab89ed6b3575f5d452"
+metafile = true
+
+[[files]]
+file = "emotes/emotecraft-double-cross-dab.pw.toml"
+hash = "3791f65c629162dad98e486fb82e75a9c14e957b4c564787935266b1dd50b50f"
+metafile = true
+
+[[files]]
+file = "emotes/emotecraft-family-guy.pw.toml"
+hash = "3caa1b7f4718122f4e66107876e26ec91b9fd15f82f77f6a857444ea34ce3fe1"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "d3a87d340439309a208ec67f0d9c8004458b315f39add685ee298909988f0d9b"
 metafile = true
@@ -208,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "a33666d7424e8a534e9b7bf77da1d19b5091c6a4e974811f86833677a907dbbd"
 metafile = true
 
 [[files]]

@@ -1,0 +1,7 @@
+name = "emotecraft-family-guy"
+filename = "emotecraft-family-guy.emotecraft"
+
+[download]
+url = "https://emotes.kosmx.dev/e/67/bin"
+hash-format = "sha1"
+hash = "c6033c60b8dca1f713c02800034575246758f854"

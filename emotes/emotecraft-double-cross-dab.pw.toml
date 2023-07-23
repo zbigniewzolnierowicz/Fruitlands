@@ -1,0 +1,7 @@
+name = "emotecraft-double-cross-dab"
+filename = "emotecraft-double-cross-dab.emotecraft"
+
+[download]
+url = "https://emotes.kosmx.dev/e/66/bin"
+hash-format = "sha1"
+hash = "d792d6566db040138e27b682526f5691ab13309d"
