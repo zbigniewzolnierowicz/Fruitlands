@@ -494,6 +494,11 @@ hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
 
 [[files]]
+file = "mods/open-simple-frames.pw.toml"
+hash = "29904f74f381d5ef0290ee6951e5926e0adcdc7a659a742dff18d475ec91949f"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "fc829d9bfa6e9c399324e64cc5feb01f01630fc0971c7286ac08b5575dcf89b2"
 metafile = true
