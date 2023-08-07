@@ -5,6 +5,10 @@ file = "config/byg/biomepedia.json5"
 hash = "6319ed3acee6edb9ad19113e257efa793b840c0d1ecc4bb5663320a1d656066b"
 
 [[files]]
+file = "config/byg/trades.json5"
+hash = "3068e5544f236d8100d1b73b175add7e253cb56a41111286535021d52d80b9a9"
+
+[[files]]
 file = "config/litematica.json"
 hash = "ba983e07025ed4770329f42466b23a5db03c7a70f1e450d3784c140194e9088e"
 
@@ -106,11 +110,6 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "4dcf5c66d30f78d3d84d2596149b457f7ab2021591e98f9d34b3636e8c961d60"
-metafile = true
-
-[[files]]
-file = "mods/charm.pw.toml"
-hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
 metafile = true
 
 [[files]]
