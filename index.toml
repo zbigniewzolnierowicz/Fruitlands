@@ -368,11 +368,6 @@ hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
 
 [[files]]
-file = "mods/guard-villagers-(fabricquilt).pw.toml"
-hash = "d1dce9dcf72fc4e7f214aafe228bd22bcc4c7e369f0ad860fa4d911ac6dbe892"
-metafile = true
-
-[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "53e83e4a46fa1fc9f865fc1dd458b256f3f3083cdeabdee417834d83e3b1b739"
 metafile = true
