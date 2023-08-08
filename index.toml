@@ -93,6 +93,16 @@ hash = "dbbe09e6693b3c8608f7831b99f66ff57a62a5dfef612295cbe144553abd7336"
 metafile = true
 
 [[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "aa5edd2c0991a3e43e61bc8c20afc354c9101a328c319af6f2a7682f14764b4c"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "5f3ca16d00949c3630dec43f6bba5aa8751a6f232c75414d1137298accd056e8"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
 metafile = true
@@ -140,6 +150,16 @@ metafile = true
 [[files]]
 file = "mods/cluttered.pw.toml"
 hash = "06c4298cc5620cb888241872d2917310a46c84e9b7e7817a296e7f3cbe1771f9"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "51ac305aa5338daa92562c574fbf38f79cc3cc789eb390d34e7a1aed2ccee734"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "e6ad077b2b20ca9bb5a6b371cd5e5c4c77bd8e6613d9a498b23c48bf16ea60c3"
 metafile = true
 
 [[files]]
@@ -193,6 +213,11 @@ hash = "7646dd860da502a19dea0fbdd470872da374d33b0e66359fe2ed9c91a3006c0b"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "7f569940a5ff22da0d824925fcc7803f753bda4310dde1dbf4781f1f244acd55"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
@@ -215,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "ae7da9393665eb20bcd5385fe3a699c90be192e84211f79613701c719743cff7"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "423bb897ea956eb46108cd2d366036c75c1c93760b832b79731e0d3dca7b8306"
 metafile = true
 
 [[files]]
@@ -335,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers-(fabricquilt).pw.toml"
+hash = "d1dce9dcf72fc4e7f214aafe228bd22bcc4c7e369f0ad860fa4d911ac6dbe892"
 metafile = true
 
 [[files]]
@@ -638,8 +673,8 @@ hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
 metafile = true
 
 [[files]]
-file = "mods/the-graveyard-fabric.pw.toml"
-hash = "5c8d7564cb0407d6162fd7d982e85e510713fdde4949e55d9d716e29c9293975"
+file = "mods/tips.pw.toml"
+hash = "5751ac9012d8014fa9c97d9d433facfbc55b39e90688532e04a010707150242b"
 metafile = true
 
 [[files]]
@@ -653,8 +688,23 @@ hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
 metafile = true
 
 [[files]]
+file = "mods/trashslot.pw.toml"
+hash = "581a2b893e0d9ad6a635a4b77c8c4ac93545be9a9ac41d15a705830ce27cb665"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/villager-death-messages.pw.toml"
+hash = "52d51d60f7557409c095dfa52f95dff4b572ecc9afeb07f4065bfcf1105156f1"
+metafile = true
+
+[[files]]
+file = "mods/vinery.pw.toml"
+hash = "d7d963b559c77a6bf8c6a9d02e96741036fc9db5dfcbd677104ee04d72343a01"
 metafile = true
 
 [[files]]
@@ -715,11 +765,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
 hash = "b097a8278c0395cca7aa1cbe8dc446973478d1b7729e30e836962a55275ef7b0"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds.pw.toml"
-hash = "455bd61468b04ec66000901d5c112a97dabd3343f9e6d96ad3c148726e7c5bf8"
 metafile = true
 
 [[files]]
