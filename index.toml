@@ -208,11 +208,6 @@ hash = "d548306cf5dc3860d8c2fff876c41fa4ba65a7517f14c0c4fd651055ab3b6b8d"
 metafile = true
 
 [[files]]
-file = "mods/critters-and-companions.pw.toml"
-hash = "7646dd860da502a19dea0fbdd470872da374d33b0e66359fe2ed9c91a3006c0b"
-metafile = true
-
-[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "7f569940a5ff22da0d824925fcc7803f753bda4310dde1dbf4781f1f244acd55"
 metafile = true
@@ -365,6 +360,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
+metafile = true
+
+[[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "f9a4fc63a5e7d097f223434604abfd372e4b0381be180bc48136fee3b6e6b190"
 metafile = true
 
 [[files]]
