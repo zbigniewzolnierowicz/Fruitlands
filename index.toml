@@ -408,6 +408,11 @@ hash = "5c36215599cb311ed16854a94b30ed55effcfa2001927c1e632b370c7d9dab83"
 metafile = true
 
 [[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "943432a0cef972de0e65eb7fa21634100f98de17b3f644b7ff8a8428ab9d17c0"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "66023ec6fd9d24094d04daa9d94d7f8fee950ac4f4bcd56aa08c0ad394678d7f"
 metafile = true
