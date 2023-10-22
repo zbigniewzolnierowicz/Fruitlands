@@ -623,6 +623,11 @@ hash = "e5d0f64167691407fc06494f18d00246d072be0081a56cc6a34abbf9bb8c3324"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "1706edf937d04f964c7bcc720a40c3f02d565b4f9c2ba213a7934f53b6daba11"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
 hash = "7f67f250f1ac5f71b62d9682db7e99fc1652271ad574dce12a295ab148cc8e2c"
 metafile = true
