@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "2241c3ddf4b8e3a80d3fac95de4fbfadab830758c9f07d36453b86ca49eb44de"
+hash = "e104613d229f66fe8b9fbb3e87531ab9fe5b953a10f652aa2c306318636c4873"
 metafile = true
 
 [[files]]
@@ -594,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "63bd12c34c206672ebba460d6d5845fe7ce4fbb86396e8da22aacd1af8d52d22"
+hash = "a6955c0a5238d656d0916537b9b498b2e39a57737fd10fe9d47ce4b925a330d2"
 metafile = true
 
 [[files]]
