@@ -248,6 +248,11 @@ hash = "ae7da9393665eb20bcd5385fe3a699c90be192e84211f79613701c719743cff7"
 metafile = true
 
 [[files]]
+file = "mods/delightful-creators-fabric.pw.toml"
+hash = "8a62c6eff516c9c85195cf84a166b0087b71be3b64fa7dbd6e669e51c54b89b8"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "423bb897ea956eb46108cd2d366036c75c1c93760b832b79731e0d3dca7b8306"
 metafile = true
@@ -678,11 +683,6 @@ hash = "5ee5aad5283f799ed948deefbe876ecbac01079d3ffc54813f0a329e46f161bd"
 metafile = true
 
 [[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "b8b05210624a4edae6cb92795f96293375259f79bfbc90c359944b2c5561171e"
-metafile = true
-
-[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
 metafile = true
@@ -695,6 +695,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "51a859be42055c2db7ea8c3be65189dafdedce167944ab3afe5fd37228d1ecfc"
 metafile = true
 
 [[files]]
