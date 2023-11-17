@@ -383,6 +383,11 @@ hash = "baa486e8b21fe518bb55cf455a833eea352a77e72ad1852408b078bd04a14e0d"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "577d6d70b5a7ab61e454ac05d0753bce12726499da97416025285f863308fc89"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
@@ -585,6 +590,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
