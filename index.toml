@@ -403,6 +403,11 @@ hash = "a2e0c19f70671901d913bf2fe3bf8996af3cf328a073fbc30a37bb08cb0e6cab"
 metafile = true
 
 [[files]]
+file = "mods/highlight.pw.toml"
+hash = "58c980391a474920dd9be8ba6f6494d4945a2faca73a55dbe48b611b63ba15d2"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
 metafile = true
@@ -545,6 +550,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "35e3e1c0a8c44475db5005153bbfdd71bb9fb9280b3f57c86bc5f5320118324c"
 metafile = true
 
 [[files]]
