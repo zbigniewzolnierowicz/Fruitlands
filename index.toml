@@ -28,6 +28,10 @@ hash = "3caa1b7f4718122f4e66107876e26ec91b9fd15f82f77f6a857444ea34ce3fe1"
 metafile = true
 
 [[files]]
+file = "kubejs/server_scripts/cluttered.js"
+hash = "34dd9ccadfc85252727dbf4e8413c898fcbf7b31f089639940d6964f689e57d5"
+
+[[files]]
 file = "kubejs/server_scripts/deployers_slicing.js"
 hash = "ce8911c219ea2d360c70e8f0464656584425ca6fadc470108db55780dcf88319"
 
