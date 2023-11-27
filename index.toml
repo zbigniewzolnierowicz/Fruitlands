@@ -28,6 +28,10 @@ hash = "3caa1b7f4718122f4e66107876e26ec91b9fd15f82f77f6a857444ea34ce3fe1"
 metafile = true
 
 [[files]]
+file = "kubejs/server_scripts/deployers_slicing.js"
+hash = "ce8911c219ea2d360c70e8f0464656584425ca6fadc470108db55780dcf88319"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "d3a87d340439309a208ec67f0d9c8004458b315f39add685ee298909988f0d9b"
 metafile = true
@@ -478,6 +482,16 @@ hash = "4cf82498772f32b8957d940145ff1950832f9774b0865ac05edbf2ec300b8131"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "c5de61a84348cb75101bcd9e3067b689db172d25d13ecde51750d05ead2bf444"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "61f4e74452dd8062c2df9178deb69c9bceb8ef65b618496b8e5a2ef9d26bc3f5"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
@@ -660,6 +674,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "1706edf937d04f964c7bcc720a40c3f02d565b4f9c2ba213a7934f53b6daba11"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "46b000fae41f783ed64f017a7b92dd353f944ed29d6f27ac59f45677057148be"
 metafile = true
 
 [[files]]
