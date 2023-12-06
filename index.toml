@@ -201,6 +201,11 @@ hash = "c24f639d603067b4930afa261923885764ce16db45a79fc85a5e145cbecacbf1"
 metafile = true
 
 [[files]]
+file = "mods/create-chunkloading.pw.toml"
+hash = "cb5ddf0131a246d5f49ef7ca54b0e2d6c3f408d08cf56c55fe46a8a57c34e706"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "23356a49d285b0c2844a7586cffd84e5d1af7f866e3602903205a72d580d5f3f"
 metafile = true
@@ -298,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "dbe6edf00ea93269b25449b1898711b0716aaaa828d8f62a9fb10e9fc4e12675"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "7ef1397292fef545eeb94f23ca5ddd82818f2d6c3700096c65ece78379ad5d9a"
 metafile = true
 
 [[files]]
