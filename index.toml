@@ -181,8 +181,8 @@ hash = "7c34a75e220f45e295811eeed80d441c99ceaf7a2ad7c3ac52121dfb472b8b17"
 metafile = true
 
 [[files]]
-file = "mods/chunky-pregenerator-forge.pw.toml"
-hash = "63430209a289884a9838bb81769104b5def62929c898ff43379e397ff8caad55"
+file = "mods/chunky.pw.toml"
+hash = "d42a44515e657e67431cb042727db14f697b6d80c88c1da5fbe4c8afce738d29"
 metafile = true
 
 [[files]]
@@ -333,11 +333,6 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "9e2cd0278e318efa5b0d41b47f0398b50431a290540e8d5540a01c61e729c663"
-metafile = true
-
-[[files]]
-file = "mods/dimensional-threads.pw.toml"
-hash = "2a17438623324019d05ce295851eb10103322bae83a086aaee4574b9e06787b6"
 metafile = true
 
 [[files]]
@@ -503,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "236e756b439335effde72db4bcedc98456b0ce2baa6090abc2a5406ef5daef9a"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials-forge.pw.toml"
+hash = "cae09fe5b9033c45d508736e097af5cdbd6fdab0699886fbd789089a6f119262"
 metafile = true
 
 [[files]]
