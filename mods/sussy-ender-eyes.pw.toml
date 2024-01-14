@@ -1,0 +1,13 @@
+name = "Sussy Ender Eyes"
+filename = "sussyendereyes-1.0.1-1.19.2-FORGE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "142e2b6b2d435a258d97770085c224dc5c814c8d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4877692
+project-id = 936841
