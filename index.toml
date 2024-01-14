@@ -6,8 +6,13 @@ hash = "9931ba04fc0f075c9d132714dc703b08cd11aaab27a7db9b28d6c4fa79eb50b2"
 metafile = true
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "43982dd484ac65f04855b176e62dc4a3c5b08077df04292fa73bf572528d6027"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "945ceb14e94115ed5dcc77b0e7aed6340e034e4e07aa4ca2a542ac9d12827f5c"
+hash = "1eebe21211a24e018557aad530de7420c268de11e0485fdb05fd3c4d3f7afb11"
 metafile = true
 
 [[files]]
@@ -407,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "dd1aeb5b56e5684a54004c73a6fc61b994759a7e712bf7425fe61dbb54c7ce6c"
+hash = "a87f1bf21278dc2e10f1f3bea7e91781a8c95fb13a6aaf0a84e629ee60936903"
 metafile = true
 
 [[files]]
@@ -612,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "94184f6d3c1fd64f3b79ebf4cb2474bd71dc0651117d8c605942490b1cd518b8"
+hash = "e01b80a9797007df118caea7f9b87d6b426cbe7c15f23517e0cd220845141463"
 metafile = true
 
 [[files]]
@@ -1042,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "b474a6ef3061361a0f3b1a6b2c743f2e516ab0b742bdc6d7316c8513c0165122"
+hash = "d746d85b822074b868d4674b026a474834db1c44dec17bbe9f147633d61c375b"
 metafile = true
 
 [[files]]
