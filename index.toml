@@ -541,6 +541,16 @@ hash = "4ffbd1b386b69920bfb289f453d3e196cd16463cf59017379186a79470d900f7"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "056c06cb61ff81448b5a5a45a6e32b19614f02021d2a860e5124b2e864b32d19"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "42a291f7768c7d9d227d4a27a5da4ae5a082881a3aa655db06111555f9559431"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a6948aa62e696ca98923b6e97750f0321284a4810ba06ba6c726ce598af31321"
 metafile = true
@@ -778,6 +788,16 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "8895f6fc1d8d8280539f3e381f3b0316d912600d7a8dda216ce83466abaa5aee"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "b7f2208957ae6e4666fdca00422343b9f375d4470b6b711a72eddb072a4597f5"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "2448cc059bc9088d2b18d7504f63b1e4e46b6d17c9f62bfc83a58b7a873b9dae"
 metafile = true
 
 [[files]]
