@@ -396,6 +396,11 @@ hash = "a5e2662048acc97d31b42cac15365306be2a00de7939cf06fd180f8120916853"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-transfer.pw.toml"
+hash = "f1ffdd196a5b92bf37ceb52c882f3262653b43ff5187803c3d4f37d67397a18a"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "a2e8b96a26c32fd7650271f27637d32e4de01781ec4b5ded1a98e4ead966658b"
 metafile = true

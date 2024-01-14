@@ -1,0 +1,13 @@
+name = "Enchantment Transfer (Fabric/Forge)"
+filename = "enchantmenttransfer-0.0.6-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8bd7c44bf6e7144aab68da73822aa9f1bf9b8b72"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4036852
+project-id = 567984
