@@ -336,11 +336,6 @@ hash = "9e2cd0278e318efa5b0d41b47f0398b50431a290540e8d5540a01c61e729c663"
 metafile = true
 
 [[files]]
-file = "mods/dimensionaldoors.pw.toml"
-hash = "1516a9f13de49f2051eedfed8086d0e69ff9ee674a525ed133ba881c71d1cacb"
-metafile = true
-
-[[files]]
 file = "mods/drawerfps.pw.toml"
 hash = "14353d481bf8743e3c04de8da92ec941053cf2fb0f57a113da417d22a040bbd6"
 metafile = true
