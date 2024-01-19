@@ -1066,16 +1066,6 @@ hash = "de92543e67785a10dba40d50fc9deebb1990d19965e0b73b9cd63be55260e62d"
 metafile = true
 
 [[files]]
-file = "mods/waterframes.pw.toml"
-hash = "b6ccf7da90cbbeb282bc728fa766b8d28eaf75e9353cbec0c86dc5c264271caf"
-metafile = true
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "d746d85b822074b868d4674b026a474834db1c44dec17bbe9f147633d61c375b"
-metafile = true
-
-[[files]]
 file = "mods/whisperwoods.pw.toml"
 hash = "4043a9593fb5e1a5a8faa8b688f588b160d812feff378032f4ba07ae8676ad60"
 metafile = true
