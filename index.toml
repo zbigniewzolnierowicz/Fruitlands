@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/inventorypets-common.toml"
+hash = "475402bbcd5dd4278fceb4d288d8a36ca7cbcf5fe0183c505430ba45ff27bc88"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "9931ba04fc0f075c9d132714dc703b08cd11aaab27a7db9b28d6c4fa79eb50b2"
 metafile = true
