@@ -346,11 +346,6 @@ hash = "14353d481bf8743e3c04de8da92ec941053cf2fb0f57a113da417d22a040bbd6"
 metafile = true
 
 [[files]]
-file = "mods/durabilityviewer.pw.toml"
-hash = "bf12b4dddff6c68340aecfd177ccb54c46c61cd09a6b29b17a5f4116a9b468fd"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "689de1398b2d03f2518da3c82f003dc533536d84c103c85222808ef5da1185b9"
 metafile = true
