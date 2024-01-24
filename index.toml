@@ -25,6 +25,11 @@ hash = "0404df67b1976c2bc5cbbf43af1c1a2e64d729f82213d0452f89baa0157f2d60"
 metafile = true
 
 [[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "e21f860ab436aa4c136797ba128cc6ec71b3149846c1cefca1cf308771628494"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "fc5c49a0f6b1b04c823f0319b20ca5de8cc8bfd5ce178cfd7a8fa4dbf259359d"
 metafile = true
@@ -427,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "dbbe67c11acd1cb11cd80dd8150d54a423033c9f386ae8cd7ec376e4a9f48614"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "5d31747b69a3c0fc9ac7971020ca2a2247619a422ffcf4d7a5f2b6f650ec1aa1"
 metafile = true
 
 [[files]]
@@ -957,11 +967,6 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "11332954f108106789ad818138a9b6ee0dd169a92b8763ae35d2d9ce88815c23"
-metafile = true
-
-[[files]]
-file = "mods/structure-compass.pw.toml"
-hash = "81933375274e263e6b328c0a56e77a5b43d608a3d494cd1adfbac9c901f93374"
 metafile = true
 
 [[files]]
