@@ -41,7 +41,7 @@
 	#Disable Sponge Pet absorb water (default:false)
 	disableSpongeWaterAbsorb = false
 	#Disable Illuminati Pet gives items ability (default:false)
-	disableIlluminatiGiveItems = true
+	disableIlluminatiGiveItems = false
 	#Illuminati Pet only gives craftable items (default:true)
 	illuminatiCraftedOnly = true
 	#Disable Machines that can Activate items (default:false)
