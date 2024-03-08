@@ -1,0 +1,13 @@
+name = "Create: Tipsy n' Dizzy"
+filename = "createtipsy-0.1+mc1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vbakXT3T/versions/Ce2qLeXN/createtipsy-0.1%2Bmc1.19.2.jar"
+hash-format = "sha1"
+hash = "41d66d238fe411c4d73888f19c9d40354303a416"
+
+[update]
+[update.modrinth]
+mod-id = "vbakXT3T"
+version = "Ce2qLeXN"

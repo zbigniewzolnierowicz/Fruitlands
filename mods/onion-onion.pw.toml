@@ -1,0 +1,13 @@
+name = "Onion Onion"
+filename = "onion_onion-1.19.2-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vC6rKlKN/versions/fDRAreo1/onion_onion-1.19.2-1.0.2.jar"
+hash-format = "sha1"
+hash = "8cf8500a86137061910d88e31f5250686c4c4f85"
+
+[update]
+[update.modrinth]
+mod-id = "vC6rKlKN"
+version = "fDRAreo1"

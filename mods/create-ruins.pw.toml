@@ -1,0 +1,13 @@
+name = "Create: Ruins"
+filename = "create-ruins-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i2OdwqsK/versions/2MIEWVE6/create-ruins-1.19.2-1.0.0.jar"
+hash-format = "sha1"
+hash = "edf644d39358a9a1c7a916391a417e9b75e2123e"
+
+[update]
+[update.modrinth]
+mod-id = "i2OdwqsK"
+version = "2MIEWVE6"
