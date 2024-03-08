@@ -1,7 +1,0 @@
-name = "emotecraft-default-dance"
-filename = "emotecraft-default-dance.emotecraft"
-
-[download]
-url = "https://emotes.kosmx.dev/e/100/bin"
-hash-format = "sha1"
-hash = "17f0435924aa4bc162a5651005f5f4b7c1f572ef"

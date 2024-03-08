@@ -1,13 +1,13 @@
 name = "Nature's Compass"
-filename = "NaturesCompass-1.19.2-2.1.0-fabric.jar"
+filename = "NaturesCompass-1.19.2-1.10.0-forge.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/fPetb5Kh/versions/N4ONofeB/NaturesCompass-1.19.2-1.10.0-forge.jar"
 hash-format = "sha1"
-hash = "fe1341df482f7ea979972f0e55ef333e59aaa087"
-mode = "metadata:curseforge"
+hash = "c63adf8ba9c4b9dfcd760a4ef844579e28367d53"
 
 [update]
-[update.curseforge]
-file-id = 4118387
-project-id = 252848
+[update.modrinth]
+mod-id = "fPetb5Kh"
+version = "N4ONofeB"

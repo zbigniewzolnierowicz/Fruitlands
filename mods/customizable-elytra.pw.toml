@@ -1,0 +1,13 @@
+name = "Customizable Elytra"
+filename = "customizableelytra-1.19.0-1.7.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L25fOeGq/versions/gsnrKi46/customizableelytra-1.19.0-1.7.4.jar"
+hash-format = "sha1"
+hash = "442b7793070f275c864cdccbf1b570fda1532385"
+
+[update]
+[update.modrinth]
+mod-id = "L25fOeGq"
+version = "gsnrKi46"

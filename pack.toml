@@ -1,16 +1,13 @@
 name = "Fruitlands"
-author = "Zed is not Dead"
-version = "1.0.0"
+author = "DeerLacy"
+version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b76c63af2ad5b2c0e69db0c94a0eee77b4520464fa92159c0ec1442b3018ca23"
+hash = "74ae489f435a64aa3c26966e146e93e166477102305419130476b503dba5966a"
 
 [versions]
-fabric = "0.14.23"
+forge = "43.3.0"
 minecraft = "1.19.2"
-
-[options]
-acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]

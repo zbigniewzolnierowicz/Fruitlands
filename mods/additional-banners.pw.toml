@@ -1,0 +1,13 @@
+name = "Additional Banners"
+filename = "AdditionalBanners-Forge-1.19.2-10.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AVPTFuxC/versions/UH1I51wt/AdditionalBanners-Forge-1.19.2-10.1.7.jar"
+hash-format = "sha1"
+hash = "ead21678063c7c5946390c4acd18ae69ebc52ba1"
+
+[update]
+[update.modrinth]
+mod-id = "AVPTFuxC"
+version = "UH1I51wt"

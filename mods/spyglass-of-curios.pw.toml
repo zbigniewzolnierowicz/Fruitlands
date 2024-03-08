@@ -1,0 +1,13 @@
+name = "Spyglass of Curios"
+filename = "spyglass_of_curios-forge-1.19.2-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HmH1GVFY/versions/M4ChhLSd/spyglass_of_curios-forge-1.19.2-1.7.2.jar"
+hash-format = "sha1"
+hash = "87f05822abf2971212fd08263e1b362fd3856c83"
+
+[update]
+[update.modrinth]
+mod-id = "HmH1GVFY"
+version = "M4ChhLSd"

@@ -1,0 +1,13 @@
+name = "Miner's Delight"
+filename = "miners_delight-1.19.2-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qMxbM4BQ/versions/FMTuVQAh/miners_delight-1.19.2-1.1.1.jar"
+hash-format = "sha1"
+hash = "21a61889c1aeaaa416968353a07f6c2786d1a0bc"
+
+[update]
+[update.modrinth]
+mod-id = "qMxbM4BQ"
+version = "FMTuVQAh"

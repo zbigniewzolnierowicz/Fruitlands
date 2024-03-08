@@ -1,13 +1,13 @@
 name = "YUNG's Better Mineshafts"
-filename = "YungsBetterMineshafts-1.19.2-Fabric-3.2.0.jar"
-side = "both"
+filename = "YungsBetterMineshafts-1.19.2-Forge-3.2.1.jar"
+side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/HjmxVlSr/versions/g2waVAZy/YungsBetterMineshafts-1.19.2-Fabric-3.2.0.jar"
+url = "https://cdn.modrinth.com/data/HjmxVlSr/versions/K4G8SGWy/YungsBetterMineshafts-1.19.2-Forge-3.2.1.jar"
 hash-format = "sha1"
-hash = "ec5283f283237f090c6ffb1c032370f1c7344c96"
+hash = "64ea80f99803f11a2329dadacddab2519bfd9dc3"
 
 [update]
 [update.modrinth]
 mod-id = "HjmxVlSr"
-version = "g2waVAZy"
+version = "K4G8SGWy"
