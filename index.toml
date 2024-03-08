@@ -136,6 +136,11 @@ hash = "d42a44515e657e67431cb042727db14f697b6d80c88c1da5fbe4c8afce738d29"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "36b059a08858d8a67c051da3ef5dbaf71787482156521c37c8284a36230e6bcd"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "1b8ad39c1125c8fbf8b389ac8cb5d56e795d900e1a210721eb5b3ff7facaeedf"
 metafile = true
@@ -473,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "17250d0ab49b7f20fb513eea71467b03440214413a1d7575e9f0c6520cb2fa6b"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "2945c90281d37963576c1bce22796629aa4d31836aa945be5558884912f1e512"
 metafile = true
 
 [[files]]
