@@ -256,11 +256,6 @@ hash = "9bcbf939dd7c24f00d1b533a101fa27baf2a009ae1130a3c2535709490bb1aea"
 metafile = true
 
 [[files]]
-file = "mods/create-ruins.pw.toml"
-hash = "e71d3e41dc4502c8a43a3893014a159827d42ce48f43b4d9ac634ac399980811"
-metafile = true
-
-[[files]]
 file = "mods/create-sandpaper-overhaul.pw.toml"
 hash = "e2ce688942e597e0db4ae52ba15db3de5ae100cedbd2df5d5b318b83e3273136"
 metafile = true
