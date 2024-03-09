@@ -126,6 +126,11 @@ hash = "7c34a75e220f45e295811eeed80d441c99ceaf7a2ad7c3ac52121dfb472b8b17"
 metafile = true
 
 [[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "2839366200aeafc08cc04fba51e3eef2f97cf00d05afe11d644757a10d2aa060"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "30710d9ab312c80b31c532de61f9f0663a08a62048caf92d7b3958e328f4a94e"
 metafile = true
@@ -311,11 +316,6 @@ hash = "fc403e33ee98a4e9366881699e8e8e177c68d83f884318dffbf12962f5cdc4d3"
 metafile = true
 
 [[files]]
-file = "mods/double-doors.pw.toml"
-hash = "47e40ef09c645bb5c5b9f4cdc5bde8f7d2c844d54e0e26c22b4d678699d4b4bd"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "81db628c00a4ddbcafcef4e80b23b0b82fb7976931ce4ff2161cb7dc54b377da"
 metafile = true
@@ -358,6 +358,16 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "565577c5461a77cfd7bfc000720c8857795b45596ea5f9c8736251aefe328b2c"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "85d3643f03c93553f381325cd2d76ac0fc982fe17371aa3929a4ed895c173f91"
+metafile = true
+
+[[files]]
+file = "mods/embeddiumplus.pw.toml"
+hash = "0c28a8974ac2817217e17b32b7412c9ccee1b31f308f75c854331f22b53e776b"
 metafile = true
 
 [[files]]
@@ -756,11 +766,6 @@ hash = "7089cdcaf2c1f1b9f6a9a28195c6925cda1af4dce16fd9f6f241d6340d5c8911"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "3c827ff9fbf2b5bd9aaa1eedd0e246fbe15e76307de20098ec4e2f27ee18a415"
-metafile = true
-
-[[files]]
 file = "mods/runelic.pw.toml"
 hash = "486dfcb85295e7b771038084d955af4cfb3685919e4e187f7a67b722bb943c8a"
 metafile = true
@@ -831,6 +836,11 @@ hash = "505c71fdb7d81089cbe8b39ebc75f9cb2f15614e3b90243ea0549e7ba8f74e13"
 metafile = true
 
 [[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "499d3c92a35266a11112df08d5c728b01d67051771a777f0bfbf4b92a73173f9"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "2033724e9709c1ccb35bbf7a116d5a9eac04c5267865a2dbeea89bab3a2ffbe8"
 metafile = true
@@ -856,8 +866,8 @@ hash = "6b268a4ed3898123e77da6f739cace72be55073cda6c799c515655359ddf2a0a"
 metafile = true
 
 [[files]]
-file = "mods/weeping-angels.pw.toml"
-hash = "c5a4afeec11c7dafc90eae2b201ff1028e529602b2510cf59c6bafef4b600635"
+file = "mods/visuality-forge.pw.toml"
+hash = "560e7cc235b2ca02a37b658769daf62784e646bfdda1a88286dfb07532545ad1"
 metafile = true
 
 [[files]]
