@@ -181,6 +181,11 @@ hash = "e3d9872198972fc4ab3bc2a19f4c87c6553eefa15002da1457df2934714706c3"
 metafile = true
 
 [[files]]
+file = "mods/crafting-on-a-stick.pw.toml"
+hash = "690581be60dbaa3851ac35df5cf137cbd8db334d9df9c07402eea9fbbd0b8285"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "22fd4f9e5381beb05bcf04b61184d25dd2c0372eca0966b9d66b97578041ba84"
 metafile = true
@@ -763,6 +768,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "7089cdcaf2c1f1b9f6a9a28195c6925cda1af4dce16fd9f6f241d6340d5c8911"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "787ddc13c4413ba97582bb19038eb3449bb02fade5abc7a3b56cdcca874e1e99"
 metafile = true
 
 [[files]]
